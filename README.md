@@ -1,21 +1,17 @@
-# 👋 Hey there! I'm Nitin Yadav
+# 👋 Hey there! I'm Nitin Yadav  
 
-I'm a software enthusiast who believes code is like pizza — better when shared! 🍕
+A software enthusiast who believes code is like pizza—better when shared! 🍕  
 
 ## 🎓 About Me  
-- **Studying Software Engineering at DTU**, where I’m juggling AI, DSA, and backend development like a pro — just don’t ask me to juggle in real life!  
-- Passionate about creating innovative tech solutions that make life a little easier.
+- Studying **Software Engineering** at DTU.  
+- Juggling **AI**, **DSA**, and **backend development** like a pro—just don’t ask me to juggle in real life!  
 
-## 🚀 What I’m Up To  
-- Brainstorming ideas for hackathon projects.  
-- Exploring AI, backend development, and DSA.  
-- Fueling my coding sessions with coffee and late-night vibes.  
+## 🚀 When I'm Not Coding  
+- Brainstorming ideas for my next hackathon project.  
+- Often fueled by copious amounts of coffee and late-night coding sessions.  
 
 ## 💡 My Goal  
-To craft tech solutions that add value, inspire creativity, and make the world a little brighter.  
+To create **innovative tech solutions** that make life a little easier—because who doesn’t love a bit of good karma with their algorithms?  
 
-## 🤖 Let's Connect!  
-and build something amazing together! And if you need a bug fixer, I’m your go-to—just don’t ask me to fix a typo in my own bio! 
-
----
-
+## 🤖 Let’s Connect!  
+Let’s build something amazing together! And if you need a bug fixer, I’m your go-to—just don’t ask me to fix a typo in my own bio!  

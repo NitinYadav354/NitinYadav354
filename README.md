@@ -13,10 +13,19 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Full Stack Development** (spotted your `fullstackopen` repo!).
+- 🔭 I’m currently working on **Full Stack Development** and the **FullStackOpen** curriculum.
 - 🎓 Studying **Software Engineering** at **Delhi Technological University**.
 - 💡 I like building things that actually solve problems.
-- ⚡ Fun fact: I treat code like pizza - it's better when shared (Open Source)!
+- ⚡ **Fun fact:** I treat code like pizza - it's better when shared!
+
+---
+
+### 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NitinYadav354&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+</div>
 
 ---
 
@@ -27,17 +36,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Commit Consistency
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinYadav354&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinYadav354&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinYadav354&theme=radical&hide_border=true" alt="streak graph" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinYadav354&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>

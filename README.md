@@ -20,14 +20,6 @@
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NitinYadav354&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-</div>
-
----
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -39,12 +31,3 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 Commit Consistency
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinYadav354&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>

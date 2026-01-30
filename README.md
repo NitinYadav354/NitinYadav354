@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Full Stack Development** and the **FullStackOpen** curriculum.
+- 🔭 I’m currently working on **Full Stack Development**
 - 🎓 Studying **Software Engineering** at **Delhi Technological University**.
 - 💡 I like building things that actually solve problems.
-- ⚡ **Fun fact:** I treat code like pizza - it's better when shared!
+- ⚡ **Fun fact:** Code is like pizza - it's better when shared!
 
 ---
 
